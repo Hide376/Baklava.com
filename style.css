@@ -6,19 +6,19 @@
 
 @font-face {
   font-family: Montserrat-ExtraBold;
-  src: url(fonts/Montserrat-ExtraBold.ttf);
+  src: url(Montserrat-ExtraBold.ttf);
 }
 @font-face {
   font-family: Montserrat-Bold;
-  src: url(fonts/Montserrat-Bold.ttf);
+  src: url(Montserrat-Bold.ttf);
 }
 @font-face {
   font-family: Montserrat-Medium;
-  src: url(fonts/Montserrat-Medium.ttf);
+  src: url(Montserrat-Medium.ttf);
 }
 @font-face {
   font-family: Montserrat-Regular;
-  src: url(fonts/Montserrat-Regular.ttf);
+  src: url(Montserrat-Regular.ttf);
 }
 
 .wrapper {
@@ -895,3 +895,4 @@
   }
 
 }
+
